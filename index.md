@@ -1,33 +1,47 @@
-## Sina Rajabpour website
+## Projects, Resume & etc ...
 
-### Markdown
+### Running Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All created projects until today *1
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[IRANPour](http://legal-dictionary.net/) / Backend App, Backend & Frontend Website
+[Bianot](https://www.bianot.com/) / Backend & Frontend Website *2
+[InstaCloop](http://instacloop.com/) / Backend App, Backend & Frontend Website
+[IOSPlan](https://iosplan.ir/) / Backend & Frontend Website
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Projects In progress
 
-### Jekyll Themes
+```markdown
+[ITAfza](https://itafza.ir/) / Backend & Frontend Website (Rebuilding with laravel instead of pure php)
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sinarajabpour1998/sinarajabpour1998.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Skills
 
-### Support or Contact
+```markdown
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+- Jquery
+- HTML & CSS
+- Bootstrap
+- API Development
+- CPanel, DirectAdmin, WHM
+- Wordpress Theme Development
+- UI & UX, SEO
+- LPIC1
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact me
+
+Phone: +989026464374 (also available on Whatsapp)
+Telegram: [@FizzoBramoss](https://t.me/FizzoBramoss)
+
+*1.1 These are not personal projects
+*1.2 Please note maybe some hosts or servers are down at this time because of their owners, sorry about that :(
+*2 Reported down
+
+***
+CopyRight 2021 All Rights Reserved, Last update 2021-3-26
