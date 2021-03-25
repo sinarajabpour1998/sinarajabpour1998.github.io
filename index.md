@@ -1,6 +1,6 @@
 ### Running Projects (All created projects until today)*
 
-[Bianot](https://www.bianot.com/) / Backend & Frontend Website *2
+[Bianot](https://www.bianot.com/) / Backend & Frontend Website
 
 [InstaCloop](http://instacloop.com/) / Backend App, Backend & Frontend Website
 
@@ -37,7 +37,7 @@ Telegram: [@FizzoBramoss](https://t.me/FizzoBramoss)
 
 Linkedin: [SinaRajabpour1998](https://www.linkedin.com/in/sina-rajabpour-7294731bb/)
 
-* Please note maybe some hosts or servers are down at this time, or some problems in loading resources because of their owners.
+* Please note maybe some hosts or servers are down at this time because of their owners.
 
 ***
 CopyRight 2021 All Rights Reserved. Last update 2021-3-26
