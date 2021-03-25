@@ -1,5 +1,3 @@
-### Projects, Resume & etc ...
-
 ### Running Projects (All created projects until today)*
 
 [IRANPour](http://legal-dictionary.net/) / Backend App, Backend & Frontend Website
@@ -34,9 +32,12 @@
 ### Contact me
 
 Phone: +989026464374 (also available on Whatsapp)
+
 Telegram: [@FizzoBramoss](https://t.me/FizzoBramoss)
 
-* These are not personal projects. Please note maybe some hosts or servers are down at this time because of their owners, sorry about that :(
+Linkedin: [SinaRajabpour1998](https://www.linkedin.com/in/sina-rajabpour-7294731bb/)
+
+* Please note maybe some hosts or servers are down at this time because of their owners.
 
 ***
 CopyRight 2021 All Rights Reserved. Last update 2021-3-26
